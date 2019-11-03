@@ -1,0 +1,2 @@
+# INSE6180
+DATA MINING ALGORITHM implementations
